@@ -1,12 +1,13 @@
 # test Websocket chat with bdd authentification
 
+requierement :<br>
 ```bash
 npm install --save ws
 npm install --save mysql
 ```
 <br>
 db config : 
-```
+```bash
 +----------------+
 | Tables_in_test |
 +----------------+
