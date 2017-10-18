@@ -1,17 +1,17 @@
 # test Websocket chat with bdd authentification
 
-npm install --save ws
-npm install --save mysql
+npm install --save ws<br>
+npm install --save mysql<br>
 <br>
 db config : 
-<br>
-+----------------+<br>
-| Tables_in_test |<br>
-+----------------+<br>
-| chat           |<br>
-| user           |<br>
-+----------------+<br>
-<br>
+<p>
++----------------+
+| Tables_in_test |
++----------------+
+| chat           |
+| user           |
++----------------+
+</p>
 table 'chat' :<br>
 +---------+---------+------+-----+---------+----------------+<br>
 | Field   | Type    | Null | Key | Default | Extra          |<br>
