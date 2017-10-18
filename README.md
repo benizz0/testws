@@ -9,6 +9,7 @@ npm install --save mysql
 
 ### db config (mysql) :
 <br>
+
 ```bash 
 +----------------+
 | Tables_in_test |
