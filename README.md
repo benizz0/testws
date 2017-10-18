@@ -9,7 +9,7 @@ npm install --save mysql
 
 ### db config (mysql) :
 <br>
-```bash
+```bash 
 +----------------+
 | Tables_in_test |
 +----------------+
@@ -17,7 +17,7 @@ npm install --save mysql
 | user           |
 +----------------+
 ```
-```bash
+```bash 
 table 'chat' :
 +---------+---------+------+-----+---------+----------------+
 | Field   | Type    | Null | Key | Default | Extra          |
@@ -27,7 +27,7 @@ table 'chat' :
 | Message | text    | NO   |     | NULL    |                |
 +---------+---------+------+-----+---------+----------------+
 ```
-```bash
+```bash 
 table 'user' : 
 +-------+---------+------+-----+---------+----------------+
 | Field | Type    | Null | Key | Default | Extra          |
