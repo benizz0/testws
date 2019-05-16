@@ -1,6 +1,8 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws?ref=badge_shield)
 
 # test Websocket chat with bdd authentification
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws?ref=badge_shield)
+
 
 ### requierement :
 ```bash
@@ -43,3 +45,7 @@ table 'user' :
 +-------+---------+------+-----+---------+----------------+
 ```
 <br>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws?ref=badge_large)
