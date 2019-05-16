@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws?ref=badge_shield)
+
 # test Websocket chat with bdd authentification
 
 ### requierement :
