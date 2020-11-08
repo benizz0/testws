@@ -148,10 +148,7 @@ var HTMLserver = http.createServer(function(request, response) {
 	}else{
 		console.log('>>> connection');
 		response.writeHead(200, headers);
-		response.write(index);
-		response.end();
-		return;
-	}
+		response.write(index);http
 });
 
 // --------------------
