@@ -4,7 +4,8 @@
   "description": "[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbenizz0%2Ftestws?ref=badge_shield)",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serv": "node main.js"
   },
   "repository": {
     "type": "git",

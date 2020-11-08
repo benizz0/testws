@@ -1,3 +1,10 @@
+var http = require("http");
+var fs = require('fs');
+var wss = require('ws').Server;
+var util = require('util');
+var mysql = require('mysql');
+
+
 // CONFIG
 
 // Web Server
@@ -82,11 +89,7 @@ var gestclient = {
 
 // ----------------------------------------------------------------
 
-var http = require("http");
-var fs = require('fs');
-var wss = require('ws').Server;
-var util = require('util');
-var mysql = require('mysql');
+
 var Smess = fs.createWriteStream(__dirname + '/message.text', {flags : 'a'});
 var log_file = fs.createWriteStream(__dirname + '/main.log', {flags : 'a'});
 var log_stdout = process.stdout;
